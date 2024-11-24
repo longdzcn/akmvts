@@ -10,7 +10,7 @@ package akmv.bamp.bamp.common;
 /**
  * bamp云bamp应用-通用常量类<br>
  * 代码中不能存在硬编码敏感信息，如账号、密码、http外链、ftp外链、邮箱等。<br>
- * 标识或缓存的常量，需以"KEY_"、"FID_"、"ENTRY_"或"SUBENTRY_"作为变量的前缀8788。<br>
+ * 标识或缓存的常量，需以"KEY_"、"FID_"、"ENTRY_"或"SUBENTRY_"作为变量的前缀8788eee。<br>
  *
  * @author akmv
  * @date 2024-11-23 10:28:19
