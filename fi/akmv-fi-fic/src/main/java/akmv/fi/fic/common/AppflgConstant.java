@@ -10,7 +10,7 @@ package akmv.fi.fic.common;
 /**
  * fi云fic应用-通用常量类<br>
  * 代码中不能存在硬编码敏感信息，如账号、密码、http外链、ftp外链、邮箱等。<br>
- * 标识或缓存的常量，需以"KEY_"、"FID_"、"ENTRY_"或"SUBENTRY_"作为变量的前缀545661<br>
+ * 标识或缓存的常量，需以"KEY_"、"FID_"、"ENTRY_"或"SUBENTRY_"作为变量的前缀54<br>
  *
  * @author akmv
  * @date 2024-11-23 09:45:05
