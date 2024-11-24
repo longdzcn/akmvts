@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Jar-Id: 
+Project-Name: kd
+Build-Tool: Gradle 7.6.3
+Build-Date: 2024-11-23 11:24:26
+Built-By: Kingdee Cosmic Developer Tools
+Build-Num: 20241123112426728
+App-Name: 
+Git-Branch: 
+Cloud-Name: 
+Group-Name: akmv.cosmic
+Bundle-Version: 1.0.0
+Git-Commit-Hash: 
+Build-Image: 
+Build-Jdk: 1.8.0_411
+

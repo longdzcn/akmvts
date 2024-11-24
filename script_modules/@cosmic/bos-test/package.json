@@ -1,0 +1,29 @@
+{
+	"license":"MIT",
+	"types":"index_reference.d.ts",
+	"keywords":[
+		"kingdee",
+		"cosmic",
+		"sdk",
+		"bos",
+		"test"
+	],
+	"exports":{
+		".":"index.d.ts"
+	},
+	"author":"zzf",
+	"name":"@cosmic/bos-test",
+	"description":"unit test framework",
+	"files":[
+		"**/*"
+	],
+	"main":"index.js",
+	"scripts":{
+		"pp":"npm run build & cd dist & npm publish",
+		"build":"kk prepack clear & tsc & kk prepack clear dist/@gen & kk prepack clear dist/@test & kk prepack compile"
+	},
+	"version":"1.0.0",
+	"dependencies":{
+		"@cosmic/bos-script":"^1.0.0"
+	}
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/akmv-cosmic-debug" />
+            <option value="$PROJECT_DIR$/bamp/akmv-bamp-bamp" />
+            <option value="$PROJECT_DIR$/base/akmv-base-common" />
+            <option value="$PROJECT_DIR$/base/akmv-base-helper" />
+            <option value="$PROJECT_DIR$/esc/akmv-esc-esc" />
+            <option value="$PROJECT_DIR$/fi/akmv-fi-fic" />
+            <option value="$PROJECT_DIR$/mmc/akmv-mmc-mmc" />
+            <option value="$PROJECT_DIR$/mpscmm/akmv-mpscmm-mpscmm" />
+            <option value="$PROJECT_DIR$/pre/kd" />
+            <option value="$PROJECT_DIR$/pur/akmv-pur-pur" />
+            <option value="$PROJECT_DIR$/qmc/akmv-qmc-qmc" />
+            <option value="$PROJECT_DIR$/scmc/akmv-scmc-scmc" />
+            <option value="$PROJECT_DIR$/tmc/akmv-tmc-tmc" />
+            <option value="$PROJECT_DIR$/wfs/akmv-wfs-wfs" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
